@@ -4,4 +4,8 @@
 4.add two matrices
 5.multiply two matrices
 6.greatest of 2 numbers
+7.add two arrays
+8.find max element of an array
+9.reverse a string
+10.gcd of two numbers 
 
