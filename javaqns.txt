@@ -1,2 +1,4 @@
 1.primecheck
 2.sort an array
+3.increase size of an array
+4.add two matrices
