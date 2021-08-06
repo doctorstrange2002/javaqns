@@ -2,3 +2,6 @@
 2.sort an array
 3.increase size of an array
 4.add two matrices
+5.multiply two matrices
+6.greatest of 2 numbers
+
